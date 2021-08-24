@@ -1,1 +1,1 @@
-# MemoryGame (https://snehaayushi.github.io/MemoryGame/)
+# MemoryGame https://snehaayushi.github.io/MemoryGame/
